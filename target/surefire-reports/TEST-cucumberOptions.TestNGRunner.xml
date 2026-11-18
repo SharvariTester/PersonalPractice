@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="cucumberOptions.TestNGRunner" time="3.034" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Sharvari\Study\EclipseWorkspaces\PracticeProject\AutomationPractice\target\test-classes;D:\Sharvari\Study\EclipseWorkspaces\PracticeProject\AutomationPractice\target\classes;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-java\8.0.4\cucumber-java-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-core\8.0.4\cucumber-core-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-gherkin\8.0.4\cucumber-gherkin-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-gherkin-messages\8.0.4\cucumber-gherkin-messages-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\gherkin\42.0.1\gherkin-42.0.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\messages\34.2.1\messages-34.2.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\messages-ndjson\0.5.2\messages-ndjson-0.5.2.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\pretty-formatter\4.1.0\pretty-formatter-4.1.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\query\16.4.0\query-16.4.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\teamcity-formatter\0.3.1\teamcity-formatter-0.3.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\testng-xml-formatter\0.9.0\testng-xml-formatter-0.9.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\usage-formatter\0.2.1\usage-formatter-0.2.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\tag-expressions\11.0.1\tag-expressions-11.0.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-expressions\20.1.0\cucumber-expressions-20.1.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-json-formatter\0.4.2\cucumber-json-formatter-0.4.2.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\datatable\8.0.4\datatable-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-plugin\8.0.4\cucumber-plugin-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\docstring\8.0.4\docstring-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\html-formatter\24.2.0\html-formatter-24.2.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\junit-xml-formatter\0.15.0\junit-xml-formatter-0.15.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\ci-environment\15.0.0\ci-environment-15.0.0.jar;C:\Users\Shailyam\.m2\repository\org\jspecify\jspecify\1.0.1\jspecify-1.0.1.jar;C:\Users\Shailyam\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-testng\8.0.4\cucumber-testng-8.0.4.jar;C:\Users\Shailyam\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\Shailyam\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\Shailyam\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\Shailyam\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25.0.5.0.3\bin"/>
+    <property name="sun.java.command" value="C:\Users\Shailyam\AppData\Local\Temp\surefire2062810568661762180\surefirebooter-20261118202632374_3.jar C:\Users\Shailyam\AppData\Local\Temp\surefire2062810568661762180 2026-11-18T20-26-31_344-jvmRun1 surefire-20261118202632374_1tmp surefire_0-20261118202632374_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Sharvari\Study\EclipseWorkspaces\PracticeProject\AutomationPractice\target\test-classes;D:\Sharvari\Study\EclipseWorkspaces\PracticeProject\AutomationPractice\target\classes;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-java\8.0.4\cucumber-java-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-core\8.0.4\cucumber-core-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-gherkin\8.0.4\cucumber-gherkin-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-gherkin-messages\8.0.4\cucumber-gherkin-messages-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\gherkin\42.0.1\gherkin-42.0.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\messages\34.2.1\messages-34.2.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\messages-ndjson\0.5.2\messages-ndjson-0.5.2.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\pretty-formatter\4.1.0\pretty-formatter-4.1.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\query\16.4.0\query-16.4.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\teamcity-formatter\0.3.1\teamcity-formatter-0.3.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\testng-xml-formatter\0.9.0\testng-xml-formatter-0.9.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\usage-formatter\0.2.1\usage-formatter-0.2.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\tag-expressions\11.0.1\tag-expressions-11.0.1.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-expressions\20.1.0\cucumber-expressions-20.1.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-json-formatter\0.4.2\cucumber-json-formatter-0.4.2.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\datatable\8.0.4\datatable-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-plugin\8.0.4\cucumber-plugin-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\docstring\8.0.4\docstring-8.0.4.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\html-formatter\24.2.0\html-formatter-24.2.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\junit-xml-formatter\0.15.0\junit-xml-formatter-0.15.0.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\ci-environment\15.0.0\ci-environment-15.0.0.jar;C:\Users\Shailyam\.m2\repository\org\jspecify\jspecify\1.0.1\jspecify-1.0.1.jar;C:\Users\Shailyam\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Shailyam\.m2\repository\io\cucumber\cucumber-testng\8.0.4\cucumber-testng-8.0.4.jar;C:\Users\Shailyam\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\Shailyam\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\Shailyam\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\Shailyam\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Shailyam"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-10-25"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-25.0.5.0.3"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Sharvari\Study\EclipseWorkspaces\PracticeProject\AutomationPractice"/>
+    <property name="style.color" value="always"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Shailyam\AppData\Local\Temp\surefire2062810568661762180\surefirebooter-20261118202632374_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="25.0.5.0.3+1-LTS-2"/>
+    <property name="user.name" value="Shailyam"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Shailyam\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Shailyam\AppData\Local\Temp\"/>
+    <property name="java.version" value="25.0.5.0.3"/>
+    <property name="user.dir" value="D:\Sharvari\Study\EclipseWorkspaces\PracticeProject\AutomationPractice"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-25.0.5.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/Shailyam/Downloads/eclipse-java-2026-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.5.v20261030-0959/jre/bin/server;C:/Users/Shailyam/Downloads/eclipse-java-2026-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.5.v20261030-0959/jre/bin;C:/Users/Shailyam/Downloads/eclipse-java-2026-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822/jre/bin/server;C:/Users/Shailyam/Downloads/eclipse-java-2026-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-25.0.5.0.3\bin;C:\Program Files\Git\cmd;C:\Users\Shailyam\AppData\Local\Microsoft\WindowsApps;;C:\Users\Shailyam\Downloads\eclipse-java-2026-09-R-win32-x86_64\eclipse;;C:\Users\Shailyam\Downloads\eclipse-java-2026-09-R-win32-x86_64\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.0.5.0.3+1-LTS-2"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="runScenario[&quot;Admin login&quot;, &quot;Application Login&quot;](1)" classname="cucumberOptions.TestNGRunner" time="0.186">
+    <failure message="The step &apos;User is on the page&apos; and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;User is on the page&quot;)&#10;public void user_is_on_the_page() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;User logs into application&quot;)&#10;public void user_logs_into_application() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;Home page is displayed&quot;)&#10;public void home_page_is_displayed() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.testng.UndefinedStepException"><![CDATA[io.cucumber.testng.UndefinedStepException: 
+The step 'User is on the page' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User is on the page")
+public void user_is_on_the_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User logs into application")
+public void user_logs_into_application() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Home page is displayed")
+public void home_page_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.User is on the page(file:///D:/Sharvari/Study/EclipseWorkspaces/PracticeProject/AutomationPractice/src/test/java/features/firstProgram.feature:6)
+]]></failure>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+  </testcase>
+</testsuite>
